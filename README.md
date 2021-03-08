@@ -4,3 +4,5 @@ Findings from an analysis of Hospital Activity Dataset which gives deeper insigh
 Power BI Report Document -> Hospital_Activity_Analysis.pbix
 
 Power BI Report Template -> Hospital_Analysis.pbit
+
+Additional Analysis carried out using Machine Learning Techniques -> Hospital_Analysis.ipynb
